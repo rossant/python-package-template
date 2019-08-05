@@ -1,0 +1,7 @@
+site_name: NAME
+pages:
+- Getting started:
+  - Introduction: 'index.md'
+- User guide:
+- Developer guide:
+theme: readthedocs
